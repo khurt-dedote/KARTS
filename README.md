@@ -99,3 +99,9 @@ secure_invoice() - Buyer locks the stablecoin payment and initiates the delivery
 claim_payment() - Seller retrieves the locked funds once the delivery timestamp has safely expired.
 
 K.A.R.T.S. DApp - Securing Social Commerce on the Blockchain
+
+CONTRACT ID: CB6RJSQAEL3V63AJV5Y3BHMPMXG3FXPZGRMEFM5K45ZHUOWTLFUR677F
+
+https://stellar.expert/explorer/testnet/tx/4e40dee32cc52a25c0164998e10706b36c9db5bcb80892de1d0c5793e6286b3e
+
+<img width="1920" height="928" alt="screenshot stellar expert" src="https://github.com/user-attachments/assets/f1b27437-7e73-483c-bf49-53c7b23f0b93" />
